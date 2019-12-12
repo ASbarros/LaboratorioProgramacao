@@ -1,0 +1,12 @@
+<list>
+  <Funcionario>
+    <uuid>4bda83c5-f0fd-4f7d-88e5-a48774fbb71b</uuid>
+    <nome>anderson</nome>
+    <cpf></cpf>
+    <telefone></telefone>
+    <celular></celular>
+    <fax></fax>
+    <codigo>4bda83c5-f0fd-4f7d-88e5-a48774fbb71b</codigo>
+    <favorito>false</favorito>
+  </Funcionario>
+</list>
